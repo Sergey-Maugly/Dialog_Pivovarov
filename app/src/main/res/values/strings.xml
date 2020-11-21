@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dialog_Pivovarov</string>
+    <string name="message">Ду ю вонт чэндж фон?</string>
+    <string name="btn">Выбрать фон</string>
+    <color name="redColor">#FF0000</color>
+    <color name="yellowColor">#FFFF00</color>
+    <color name="greenColor">#00FF00</color>
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зелёный</string>
+
+</resources>
+
